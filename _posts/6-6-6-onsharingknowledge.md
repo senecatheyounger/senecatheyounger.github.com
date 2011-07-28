@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the philosopher's mean
+title: On sharing knowledge
 tag: letter
 ---
 
