@@ -4,7 +4,8 @@ a {
 	color:#bd000d;
 }
 
-h1 {	
+h1 {
+	font-size:3em;	
 	padding-bottom:35px;
 	font-family: Georgia, serif;
 	font-weight:normal;
@@ -63,11 +64,11 @@ div#ribbon {
 	position:absolute;
 	top:0px;
 	left:20px;
-	background-color:#bd000d;
+	background-color:brown;
 	color:white;
 	font:2.2em palatino ;
 	font-style:italic;
-	padding:60px 0px 10px 0px;
+	padding:10px 0px 10px 0px;
 	width:190px;
 	text-align:center;
 	
