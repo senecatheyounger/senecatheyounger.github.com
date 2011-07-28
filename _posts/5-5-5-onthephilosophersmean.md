@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the terrors of death
+title: On the philosopher's mean
 tag: letter
 ---
 
