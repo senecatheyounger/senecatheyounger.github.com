@@ -67,15 +67,30 @@ div#ribbon {
 	position:absolute;
 	top:0px;
 	left:20px;
-	background-color:brown;
+	background-color:#bd000d;
 	color:white;
 	font:2.2em palatino ;
 	font-style:italic;
-	padding:10px 0px 10px 0px;
+	padding:60px 0px 10px 0px;
 	width:190px;
+	text-align:center;
+
+	
+}
+
+div#tag {
+	position:absolute;
+	bottom:0px;
+	right:-180px;
+	background-color:#bd000d;
+	color:white;
+	font:1em palatino ;
+	font-style:italic;
+	padding:5px 6px 5px 6px;
 	text-align:center;
 	
 }
+
 
 div#leftbar {
 	position:absolute;
