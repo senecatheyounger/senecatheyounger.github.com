@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On the philosophy and riches
+title: On philosophy and riches
 tag: letter
 ---
 
